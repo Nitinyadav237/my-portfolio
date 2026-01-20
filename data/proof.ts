@@ -21,7 +21,7 @@ export const proofOfWork: OssContribution[] = [
     title: "fix(settings): use type-safe useParams instead of type assertions",
     pr: 858,
     date: "Jan 2026",
-    status: "open",
+    status: "merged",
     prUrl: "https://github.com/samui-build/samui-wallet/pull/858",
     repoUrl: "https://github.com/samui-build/samui-wallet",
   },
